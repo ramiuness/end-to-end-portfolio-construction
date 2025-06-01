@@ -26,7 +26,7 @@ This repository contains a Jupyter notebook that illustrates my extension of the
 #### 📦 Data Acquisition  
 ![yfinance](https://img.shields.io/badge/yfinance-003B71?logo=yahoo&logoColor=white)
 
-#### 🧮 Scientific Computing  
+#### 📊 Data Analysis & Handling  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
