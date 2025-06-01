@@ -1,11 +1,19 @@
 # End-to-End Portfolio Construction
-
+	
+  End-to-end portfolio construction systems are full-cycle, entirely data-driven, portfolio optimization systems. The decision-focused learning paradigm is applied to address the sensitivity of portfolio allocations to the estimation error of the mean. The learning of mean returns from financial factors is integrated into the decision layer of the system, and is learned to directly support downstream allocation decisions. These systems 
+ - Allow learning the risk aversion parameter from the data
+- Allow flexibility on the objective function of the decision layer
+- Incorporated robust backtesting workflows to evaluate the decision impact of learned models under realistic market dynamics.
+  
 This repository contains a Jupyter notebook that illustrates my extension of the models and code for the paper:
 
 > "Distributionally Robust Portfolio Construction"  
 > [Journal of Financial Econometrics, 2023](https://www.tandfonline.com/doi/full/10.1080/14697688.2023.2236148).
 
 The code and methodology are inspired by and build upon the original repository: [Iyengar-Lab/E2E-DRO](https://github.com/Iyengar-Lab/E2E-DRO).
+
+
+
 
 ## Purpose
 
