@@ -1,9 +1,10 @@
 # End-to-End Portfolio Construction
 	
-  End-to-end portfolio construction systems are full-cycle, entirely data-driven, portfolio optimization systems. The decision-focused learning paradigm is applied to address the sensitivity of portfolio allocations to the estimation error of the mean. The learning of mean returns from financial factors is integrated into the decision layer of the system, and is learned to directly support downstream allocation decisions. These systems 
- - Allow learning the risk aversion parameter from the data
+ End-to-end portfolio construction systems are full-cycle, entirely data-driven, portfolio optimization systems. These systems employ the decision-focused learning paradigm to address estimation problem of the mean returns. The learning of mean returns from financial factors is integrated into the decision layer of the system, and is learned to directly support downstream allocation decisions. The systems illustrated here:
+ 
 - Allow flexibility on the objective function of the decision layer
-- Incorporated robust backtesting workflows to evaluate the decision impact of learned models under realistic market dynamics.
+- Allow learning the risk aversion parameter from the data
+- Incorporate robust backtesting workflows to evaluate the decision impact of learned models under realistic market dynamics.
   
 This repository contains a Jupyter notebook that illustrates my extension of the models and code for the paper:
 
