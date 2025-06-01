@@ -18,6 +18,16 @@ This framework exemplifies modern quantitative investing—where machine learnin
 
 This repository contains a Jupyter notebook that illustrates my extension of the models and code for the paper "Distributionally Robust Portfolio Construction", [Journal of Financial Econometrics, 2023](https://www.tandfonline.com/doi/full/10.1080/14697688.2023.2236148).
 
+### 🐍 Python Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-003B71?logo=yahoo&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![CVXPY](https://img.shields.io/badge/CVXPY-34495E?logo=python&logoColor=white)
+![cvxpylayers](https://img.shields.io/badge/CVXPYLayers-2C3E50?logo=python&logoColor=white)
+
 
 ## Purpose
 
