@@ -8,7 +8,7 @@ Key features of the approach include:
 
 - Data-driven calibration of risk preferences to better reflect market conditions.
 
-- Can be tailored to the uncertainty in the distribution of mean returns.
+- Can be tailored to the uncertainty in the distribution of mean returns, thus providing robustness against model missepcification.
 
 - Built-in backtesting workflows that assess how portfolio decisions perform under real-world market dynamics.
 
