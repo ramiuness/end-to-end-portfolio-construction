@@ -5,7 +5,7 @@
 - Allow flexibility on the objective function of the decision layer
 - Allow learning the risk aversion parameter from the data
 - Incorporate robust backtesting workflows to evaluate the decision impact of learned models under realistic market dynamics
-- Demonstrate a significant inrease on the Sharpe ratio of the allocated portfolios as compared to the "naive" predict-then-optimize optimized porfolios.
+- Demonstrate a significant inrease on the Sharpe ratio of the allocated portfolios as compared to the "naive" predict-then-optimize allocated porfolios.
   
 This repository contains a Jupyter notebook that illustrates my extension of the models and code for the paper:
 
