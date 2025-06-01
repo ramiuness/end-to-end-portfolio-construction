@@ -6,6 +6,8 @@ Key features of the approach include:
 
 - Flexibility in defining portfolio objectives, allowing alignment with different investment mandates.
 
+- Can be tailored to the uncertainty of the distribution of mean returns.
+
 - Data-driven calibration of risk preferences to better reflect market conditions.
 
 - Built-in backtesting workflows that assess how portfolio decisions perform under real-world market dynamics.
