@@ -1,12 +1,19 @@
 # End-to-End Portfolio Construction
 	
- End-to-end portfolio construction systems are full-cycle, entirely data-driven, portfolio optimization systems. These systems employ the decision-focused learning paradigm to address the estimation problem of the mean returns. The "smart-predict-then-optimize" learning of mean returns from financial factors is integrated into the decision layer of the system, and is learned to directly support downstream allocation decisions. The systems illustrated here:
- 
-- Allow flexibility on the objective function of the decision layer
-- Allow learning the risk aversion parameter from the data
-- Incorporate robust backtesting workflows to evaluate the decision impact of learned models under realistic market dynamics
-- Demonstrate a significant increase on the Sharpe ratio as compared to the "naive" predict-then-optimize porfolios.
-  
+End-to-end portfolio optimization systems leverage a fully data-driven pipeline to improve investment decision-making. These systems learn to forecast expected returns in a way that directly supports portfolio allocation, integrating predictive modeling and optimization into a unified process. Rather than treating forecasting and optimization separately, the model learns what matters most for downstream performance.
+
+Key features of the approach include:
+
+Flexibility in defining portfolio objectives, allowing alignment with different investment mandates.
+
+Data-driven calibration of risk preferences to better reflect market conditions.
+
+Built-in backtesting workflows that assess how portfolio decisions perform under real-world market dynamics.
+
+Substantial performance gains over traditional approaches, including significantly higher Sharpe ratios compared to standard predict-then-optimize methods.
+
+This framework exemplifies modern quantitative investing—where machine learning and optimization are tightly coupled to drive better portfolio outcomes.
+
 This repository contains a Jupyter notebook that illustrates my extension of the models and code for the paper "Distributionally Robust Portfolio Construction", [Journal of Financial Econometrics, 2023](https://www.tandfonline.com/doi/full/10.1080/14697688.2023.2236148).
 
 
