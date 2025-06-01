@@ -4,13 +4,13 @@ End-to-end portfolio optimization systems leverage a fully data-driven pipeline 
 
 Key features of the approach include:
 
-Flexibility in defining portfolio objectives, allowing alignment with different investment mandates.
+- Flexibility in defining portfolio objectives, allowing alignment with different investment mandates.
 
-Data-driven calibration of risk preferences to better reflect market conditions.
+- Data-driven calibration of risk preferences to better reflect market conditions.
 
-Built-in backtesting workflows that assess how portfolio decisions perform under real-world market dynamics.
+- Built-in backtesting workflows that assess how portfolio decisions perform under real-world market dynamics.
 
-Substantial performance gains over traditional approaches, including significantly higher Sharpe ratios compared to standard predict-then-optimize methods.
+- Substantial performance gains over traditional approaches, including significantly higher Sharpe ratios compared to standard predict-then-optimize methods.
 
 This framework exemplifies modern quantitative investing—where machine learning and optimization are tightly coupled to drive better portfolio outcomes.
 
