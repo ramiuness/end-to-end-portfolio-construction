@@ -10,7 +10,7 @@ It reflects a modern approach to quantitative investing, where **machine learnin
 
 - **Unified objective**: Simultaneously learns to forecast and optimize for portfolio performance.
 - **Flexible portfolio definitions**: Adapts to a wide range of investment mandates and risk objectives.
-- **Robustness to model error**: Incorporates returns ditributional misspecification using distributionally robust techniques.
+- **Robustness to model misspecification**: Incorporates returns ditributional misspecification using distributionally robust techniques.
 - **Backtesting support**: Includes workflows to evaluate out-of-sample performance across real-world market conditions.
 - **Superior risk-adjusted returns**: Demonstrates higher Sharpe ratios compared to standard predict-then-optimize approaches.
 
