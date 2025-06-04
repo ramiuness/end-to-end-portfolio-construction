@@ -58,7 +58,7 @@ It is meant for academic and educational purposes and is **not intended for prod
 This project is released under an **academic-use license**.  
 You are free to use, modify, and share the code for **non-commercial research or educational purposes**, provided that attribution is given to:
 
-- **Paper**: *"Distributionally Robust Portfolio Construction"*
+- **Paper**: *"Distributionally Robust End-to-End Portfolio Construction"*
 - **Original codebase**: [Iyengar-Lab/E2E-DRO](https://github.com/Iyengar-Lab/E2E-DRO)
 
 No warranty is provided. Use at your own discretion and risk.
